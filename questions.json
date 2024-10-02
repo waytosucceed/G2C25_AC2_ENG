@@ -1,0 +1,229 @@
+[
+    {
+        "questionNo": "Q1.",
+        "question": "Which word is an adjective in this sentence: \"The big dog barked loudly.\"",
+        "options": [
+            "The",
+            "Big",
+            "Dog",
+            "Barked"
+        ],
+        "correct": 1,
+        "explanation": "'Big' describes the noun 'dog'. Adjectives are words that describe or modify nouns, telling us more about their qualities or characteristics. In this sentence, 'big' tells us about the size of the dog."
+    },
+    {
+        "questionNo": "Q2.",
+        "question": "Choose the adjective in this sentence: \"She wore a pretty dress.\"",
+        "options": [
+            "She",
+            "Wore",
+            "A",
+            "Pretty"
+        ],
+        "correct": 3,
+        "explanation": "'Pretty' is the adjective in this sentence. It describes the noun 'dress', giving us information about how the dress looks. Adjectives like 'pretty' help us create a clearer picture in our minds when we read or hear a sentence."
+    },
+    {
+        "questionNo": "Q3.",
+        "question": "Which word is not an adjective?",
+        "options": [
+            "Happy",
+            "Tall",
+            "Australia",
+            "Sad"
+        ],
+        "correct": 2,
+        "explanation": "'Australia' is not an adjective; it's a noun. The other options - 'happy', 'tall', and 'sad' - are all adjectives. They can be used to describe nouns, like a happy child, a tall tree, or a sad boy."
+    },
+    {
+        "questionNo": "Q4.",
+        "question": "In the sentence \"The small cat chased the fast mouse\", which words are adjectives?",
+        "options": [
+            "Small and fast",
+            "Cat and mouse"
+        ],
+        "correct": 0,
+        "explanation": "'Small' and 'fast' are both adjectives in this sentence. 'Small' describes the cat, telling us about its size, while 'fast' describes the mouse, telling us about its speed. 'Cat' and 'Mouse' are nouns because they are animals."
+    },
+    {
+        "questionNo": "Q5.",
+        "question": "Which sentence is correct?",
+        "options": [
+            "The boy happy played.",
+            "The happy boy played.",
+            "Boy the played happy.",
+            "Happy the boy played."
+        ],
+        "correct": 1,
+        "explanation": "'The happy boy played.' is correct. In this sentence, 'happy' is correctly used as an adjective to describe the boy."
+    },
+    {
+        "questionNo": "Q6.",
+        "question": "Where did Lily and Ben decide to explore?",
+        "options": [
+            "A park",
+            "The forest near their house",
+            "The beach",
+            "A mountain"
+        ],
+        "correct": 1,
+        "explanation": "'The forest near their house' is correct. The story starts by saying, 'Lily and her best friend, Ben, decided to explore the forest near their house.'"
+    },
+    {
+        "questionNo": "Q7.",
+        "question": "What did Lily and Ben find while walking in the woods?",
+        "options": [
+            "A shiny rock",
+            "A big waterfall",
+            "A hidden cave",
+            "A sparkling path"
+        ],
+        "correct": 3,
+        "explanation": "'They found a sparkling path that they had never seen before.' This path leads them to the magical tree."
+    },
+    {
+        "questionNo": "Q8.",
+        "question": "What magical animal greeted Lily and Ben?",
+        "options": [
+            "A flying dragon",
+            "A talking rabbit",
+            "A rainbow-colored unicorn",
+            "A talking cat"
+        ],
+        "correct": 2,
+        "explanation": "'A rainbow-colored unicorn greeted them' when they entered the Magic Forest."
+    },
+    {
+        "questionNo": "Q9.",
+        "question": "What is the adjective in \"The shiny car zoomed by\"?",
+        "options": [
+            "The",
+            "Shiny",
+            "Car"
+        ],
+        "correct": 1,
+        "explanation": "'Shiny' is the adjective in this sentence. It describes the noun 'car', telling us about its appearance."
+    },
+    {
+        "questionNo": "Q10.",
+        "question": "In \"The hungry bear ate honey\", what does the adjective (hungry) describe?",
+        "options": [
+            "Honey",
+            "Ate",
+            "Bear"
+        ],
+        "correct": 2,
+        "explanation": "'Hungry' describes the noun 'bear'. It tells us about the bear's state or condition."
+    },
+    {
+        "questionNo": "Q11.",
+        "question": "In \"The old, rusty car wouldn't start\", which words are adjectives?",
+        "options": [
+            "Old and rusty",
+            "Car and start"
+        ],
+        "correct": 0,
+        "explanation": "'Old' and 'rusty' are adjectives describing the car, giving us information about its age and condition."
+    },
+    {
+        "questionNo": "Q12.",
+        "question": "Choose the noun: \"The fluffy kitten purred softly\"?",
+        "options": [
+            "Purred",
+            "Softly",
+            "Kitten",
+            "The"
+        ],
+        "correct": 2,
+        "explanation": "'Kitten' is a noun because it is an animal. The adjective 'fluffy' describes the noun 'kitten'."
+    },
+    {
+        "questionNo": "Q13.",
+        "question": "In \"The brave knight fought the fierce dragon\", which words are adjectives?",
+        "options": [
+            "Brave and fierce",
+            "Knight and dragon"
+        ],
+        "correct": 0,
+        "explanation": "'Brave' describes the knight, while 'fierce' describes the dragon."
+    },
+    {
+        "questionNo": "Q14.",
+        "question": "In \"The bright sun warmed the green grass\", which words are adjectives?",
+        "options": [
+            "The and the",
+            "Sun and grass",
+            "Warmed and green",
+            "Bright and green"
+        ],
+        "correct": 3,
+        "explanation": "'Bright' describes the sun, while 'green' describes the grass."
+    },
+    {
+        "questionNo": "Q15.",
+        "question": "Which word is an adjective that describes size?",
+        "options": [
+            "Happy",
+            "Blue",
+            "Tiny",
+            "Smooth"
+        ],
+        "correct": 2,
+        "explanation": "'Tiny' is an adjective that describes size, indicating that something is very small."
+    },
+    {
+        "questionNo": "Q16.",
+        "question": "The _____ puppy wagged its tail.",
+        "options": [
+            "Happy",
+            "Happily",
+            "Happiness"
+        ],
+        "correct": 0,
+        "explanation": "'Happy' is the adjective to describe the puppy."
+    },
+    {
+        "questionNo": "Q17.",
+        "question": "The _____ leaves fell from the trees in autumn.",
+        "options": [
+            "Colour",
+            "Colourful",
+            "Colouring"
+        ],
+        "correct": 1,
+        "explanation": "'Colourful' is the correct adjective to describe the leaves."
+    },
+    {
+        "questionNo": "Q18.",
+        "question": "We saw a _____ rainbow after the rain.",
+        "options": [
+            "Beauty",
+            "Beautify",
+            "Beautiful"
+        ],
+        "correct": 2,
+        "explanation": "'Beautiful' is the correct adjective to describe the rainbow."
+    },
+    {
+        "questionNo": "Q19.",
+        "question": "The zoo has many _____ animals.",
+        "options": [
+            "Differ",
+            "Different",
+            "Difference"
+        ],
+        "correct": 1,
+        "explanation": "'Different' is the correct adjective to describe the animals."
+    },
+    {
+        "questionNo": "Q20.",
+        "question": "My little sister wore a _____ dress to the party.",
+        "options": [
+            "Pretty",
+            "Prettily",
+            "Prettiness"
+        ],
+        "correct": 0,
+        "explanation": "'Pretty' is the correct adjective to describe the dress."
+    }
+]
